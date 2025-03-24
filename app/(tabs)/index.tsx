@@ -4,7 +4,7 @@ export default function Index() {
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.appName}>IDFAi.</Text>
+        <Text style={styles.appName}>IDFAi</Text>
       </View>
       <Text style={styles.text}>Matrix</Text>
     </View>
